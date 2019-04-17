@@ -2,7 +2,7 @@
 
 Fine-tuned network models by ["Efficient Neural Network Compression"](https://arxiv.org/abs/1811.12781), CVPR 2019.
 
-For the source-code of paper, please refer [[ENC]](https://github.com/Hyeji-Kim/ENC)
+For the source-code of paper, please refer to [[ENC]](https://github.com/Hyeji-Kim/ENC)
 
 * This repository contains the prototxt files
 * Trained models: [[driver]](https://www.amazon.com/clouddrive/share/hZpteJRlZbUGF12csmF304mka3pDAUYu6eVFRUyrEIS)
